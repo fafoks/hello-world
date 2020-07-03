@@ -1,2 +1,3 @@
 # hello-world
-Just anoher repository
+Just another repository
+I ama self-taught front-end developer
